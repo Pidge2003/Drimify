@@ -107,6 +107,7 @@ body {
     bottom: 3px;
     right: 40px;
     z-index: 5;
+    display: none;
 }
 
 
@@ -280,6 +281,7 @@ body {
             bottom: 200px;
             right: 200px;
             z-index: 5;
+            display: none;
             }
 }
 
