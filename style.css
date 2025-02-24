@@ -203,6 +203,7 @@ body {
     background-color: #000; 
     border-radius: 50%; 
     margin-left: -6px;
+    display: none;
 }
 
 /* Bottom of hero section */
@@ -477,6 +478,7 @@ body {
     .button-arrow {
         width: 48px; 
         height: 48px; 
+        display: none;
     }
 
     /* Bottom of hero section */
@@ -717,6 +719,7 @@ body {
     .button-arrow {
         width: 44px; 
         height: 44px; 
+        display: none;
     }
 
     /* Bottom of hero section */
